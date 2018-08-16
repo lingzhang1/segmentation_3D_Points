@@ -1,7 +1,3 @@
-#Author: Ling Zhang
-#ID: 23702691
-#Course: CSC I6716 Computer Vision
-#Project: Segmentation of 3D Cloud Points
 #Description: Given a 3d point cloud, assign planar surfaces different colors.
 
 import string, sys
